@@ -1,0 +1,26 @@
+[
+    {
+        "code": "Bootd1z",
+        "amount": "10",
+        "discount_type": "fixed_product",
+        "description": "Cupom de desconto de teste 4v1g6gw18m"
+    },
+    {
+        "code": "novo-cu-bCamp2x",
+        "amount": "20",
+        "discount_type": "fixed_product",
+        "description": "Cupom de desconto de teste smart coupon Sorte"
+    },
+    {
+        "code": "15bootSUHvz",
+        "amount": "15",
+        "discount_type": "fixed_product",
+        "description": "Cupom de desconto de teste 10 smart 10sbeatyoupm Sorte"
+    },
+    {
+        "code": "15CupomdaSorteez",
+        "amount": "15",
+        "discount_type": "fixed_product",
+        "description": "Cupom de desconto de teste Sortez"
+    }
+]

@@ -1,0 +1,412 @@
+[
+    {
+        "id": 6966,
+        "code": "teste-camp",
+        "amount": "20.00",
+        "date_created": "2022-09-27T21:19:34",
+        "date_created_gmt": "2022-09-28T00:19:34",
+        "date_modified": "2022-09-27T21:19:34",
+        "date_modified_gmt": "2022-09-28T00:19:34",
+        "discount_type": "fixed_product",
+        "description": "Cupom de desconto de teste smart coupon",
+        "date_expires": null,
+        "date_expires_gmt": null,
+        "usage_count": 0,
+        "individual_use": false,
+        "product_ids": [],
+        "excluded_product_ids": [],
+        "usage_limit": null,
+        "usage_limit_per_user": null,
+        "limit_usage_to_x_items": null,
+        "free_shipping": false,
+        "product_categories": [],
+        "excluded_product_categories": [],
+        "exclude_sale_items": false,
+        "minimum_amount": "0.00",
+        "maximum_amount": "0.00",
+        "email_restrictions": [],
+        "used_by": [],
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons/6966"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons"
+                }
+            ]
+        }
+    },
+    {
+        "id": 6965,
+        "code": "teste-tst",
+        "amount": "20.00",
+        "date_created": "2022-09-27T21:18:50",
+        "date_created_gmt": "2022-09-28T00:18:50",
+        "date_modified": "2022-09-27T21:18:50",
+        "date_modified_gmt": "2022-09-28T00:18:50",
+        "discount_type": "fixed_product",
+        "description": "Cupom de desconto de teste smart coupon",
+        "date_expires": null,
+        "date_expires_gmt": null,
+        "usage_count": 0,
+        "individual_use": false,
+        "product_ids": [],
+        "excluded_product_ids": [],
+        "usage_limit": null,
+        "usage_limit_per_user": null,
+        "limit_usage_to_x_items": null,
+        "free_shipping": false,
+        "product_categories": [],
+        "excluded_product_categories": [],
+        "exclude_sale_items": false,
+        "minimum_amount": "0.00",
+        "maximum_amount": "0.00",
+        "email_restrictions": [],
+        "used_by": [],
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons/6965"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons"
+                }
+            ]
+        }
+    },
+    {
+        "id": 6964,
+        "code": "nomecupomsdfa",
+        "amount": "10.00",
+        "date_created": "2022-09-27T21:17:38",
+        "date_created_gmt": "2022-09-28T00:17:38",
+        "date_modified": "2022-09-27T21:17:38",
+        "date_modified_gmt": "2022-09-28T00:17:38",
+        "discount_type": "fixed_product",
+        "description": "Cupom de desconto de teste",
+        "date_expires": null,
+        "date_expires_gmt": null,
+        "usage_count": 0,
+        "individual_use": false,
+        "product_ids": [],
+        "excluded_product_ids": [],
+        "usage_limit": null,
+        "usage_limit_per_user": null,
+        "limit_usage_to_x_items": null,
+        "free_shipping": false,
+        "product_categories": [],
+        "excluded_product_categories": [],
+        "exclude_sale_items": false,
+        "minimum_amount": "0.00",
+        "maximum_amount": "0.00",
+        "email_restrictions": [],
+        "used_by": [],
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons/6964"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons"
+                }
+            ]
+        }
+    },
+    {
+        "id": 6963,
+        "code": "teste-asdj",
+        "amount": "20.00",
+        "date_created": "2022-09-27T21:12:00",
+        "date_created_gmt": "2022-09-28T00:12:00",
+        "date_modified": "2022-09-27T21:12:00",
+        "date_modified_gmt": "2022-09-28T00:12:00",
+        "discount_type": "fixed_product",
+        "description": "Cupom de desconto de teste smart coupon",
+        "date_expires": null,
+        "date_expires_gmt": null,
+        "usage_count": 0,
+        "individual_use": false,
+        "product_ids": [],
+        "excluded_product_ids": [],
+        "usage_limit": null,
+        "usage_limit_per_user": null,
+        "limit_usage_to_x_items": null,
+        "free_shipping": false,
+        "product_categories": [],
+        "excluded_product_categories": [],
+        "exclude_sale_items": false,
+        "minimum_amount": "0.00",
+        "maximum_amount": "0.00",
+        "email_restrictions": [],
+        "used_by": [],
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons/6963"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons"
+                }
+            ]
+        }
+    },
+    {
+        "id": 6962,
+        "code": "4v1s2342p",
+        "amount": "20.00",
+        "date_created": "2022-09-27T21:11:18",
+        "date_created_gmt": "2022-09-28T00:11:18",
+        "date_modified": "2022-09-27T21:11:18",
+        "date_modified_gmt": "2022-09-28T00:11:18",
+        "discount_type": "fixed_product",
+        "description": "Cupom de desconto de teste smart coupon",
+        "date_expires": null,
+        "date_expires_gmt": null,
+        "usage_count": 0,
+        "individual_use": false,
+        "product_ids": [],
+        "excluded_product_ids": [],
+        "usage_limit": null,
+        "usage_limit_per_user": null,
+        "limit_usage_to_x_items": null,
+        "free_shipping": false,
+        "product_categories": [],
+        "excluded_product_categories": [],
+        "exclude_sale_items": false,
+        "minimum_amount": "0.00",
+        "maximum_amount": "0.00",
+        "email_restrictions": [],
+        "used_by": [],
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons/6962"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons"
+                }
+            ]
+        }
+    },
+    {
+        "id": 6961,
+        "code": "4v1sp",
+        "amount": "20.00",
+        "date_created": "2022-09-27T21:09:58",
+        "date_created_gmt": "2022-09-28T00:09:58",
+        "date_modified": "2022-09-27T21:09:58",
+        "date_modified_gmt": "2022-09-28T00:09:58",
+        "discount_type": "fixed_product",
+        "description": "Cupom de desconto de teste smart coupon",
+        "date_expires": null,
+        "date_expires_gmt": null,
+        "usage_count": 0,
+        "individual_use": false,
+        "product_ids": [],
+        "excluded_product_ids": [],
+        "usage_limit": null,
+        "usage_limit_per_user": null,
+        "limit_usage_to_x_items": null,
+        "free_shipping": false,
+        "product_categories": [],
+        "excluded_product_categories": [],
+        "exclude_sale_items": false,
+        "minimum_amount": "0.00",
+        "maximum_amount": "0.00",
+        "email_restrictions": [],
+        "used_by": [],
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons/6961"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons"
+                }
+            ]
+        }
+    },
+    {
+        "id": 6960,
+        "code": "4v1smartcp",
+        "amount": "20.00",
+        "date_created": "2022-09-27T20:46:27",
+        "date_created_gmt": "2022-09-27T23:46:27",
+        "date_modified": "2022-09-27T20:46:27",
+        "date_modified_gmt": "2022-09-27T23:46:27",
+        "discount_type": "fixed_product",
+        "description": "Cupom de desconto de teste smart coupon",
+        "date_expires": null,
+        "date_expires_gmt": null,
+        "usage_count": 0,
+        "individual_use": false,
+        "product_ids": [],
+        "excluded_product_ids": [],
+        "usage_limit": null,
+        "usage_limit_per_user": null,
+        "limit_usage_to_x_items": null,
+        "free_shipping": false,
+        "product_categories": [],
+        "excluded_product_categories": [],
+        "exclude_sale_items": false,
+        "minimum_amount": "0.00",
+        "maximum_amount": "0.00",
+        "email_restrictions": [],
+        "used_by": [],
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons/6960"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons"
+                }
+            ]
+        }
+    },
+    {
+        "id": 6957,
+        "code": "4v1g6gw18m",
+        "amount": "10.00",
+        "date_created": "2022-09-27T18:20:32",
+        "date_created_gmt": "2022-09-27T21:20:32",
+        "date_modified": "2022-09-27T18:20:32",
+        "date_modified_gmt": "2022-09-27T21:20:32",
+        "discount_type": "fixed_product",
+        "description": "Cupom de desconto de teste 4v1g6gw18m",
+        "date_expires": null,
+        "date_expires_gmt": null,
+        "usage_count": 0,
+        "individual_use": false,
+        "product_ids": [],
+        "excluded_product_ids": [],
+        "usage_limit": null,
+        "usage_limit_per_user": null,
+        "limit_usage_to_x_items": null,
+        "free_shipping": false,
+        "product_categories": [],
+        "excluded_product_categories": [],
+        "exclude_sale_items": false,
+        "minimum_amount": "0.00",
+        "maximum_amount": "0.00",
+        "email_restrictions": [],
+        "used_by": [],
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons/6957"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons"
+                }
+            ]
+        }
+    },
+    {
+        "id": 6949,
+        "code": "cupom-x10abc3459879wertgf55443",
+        "amount": "100.00",
+        "date_created": "2022-09-27T14:42:28",
+        "date_created_gmt": "2022-09-27T17:42:28",
+        "date_modified": "2022-09-27T14:42:28",
+        "date_modified_gmt": "2022-09-27T17:42:28",
+        "discount_type": "fixed_product",
+        "description": "Cupom de desconto de teste",
+        "date_expires": null,
+        "date_expires_gmt": null,
+        "usage_count": 0,
+        "individual_use": false,
+        "product_ids": [],
+        "excluded_product_ids": [],
+        "usage_limit": null,
+        "usage_limit_per_user": null,
+        "limit_usage_to_x_items": null,
+        "free_shipping": false,
+        "product_categories": [],
+        "excluded_product_categories": [],
+        "exclude_sale_items": false,
+        "minimum_amount": "0.00",
+        "maximum_amount": "0.00",
+        "email_restrictions": [],
+        "used_by": [],
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons/6949"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons"
+                }
+            ]
+        }
+    },
+    {
+        "id": 6942,
+        "code": "testecupom",
+        "amount": "10.00",
+        "date_created": "2022-09-26T14:32:30",
+        "date_created_gmt": "2022-09-26T17:32:30",
+        "date_modified": "2022-09-26T14:32:30",
+        "date_modified_gmt": "2022-09-26T17:32:30",
+        "discount_type": "fixed_product",
+        "description": "teste",
+        "date_expires": null,
+        "date_expires_gmt": null,
+        "usage_count": 0,
+        "individual_use": false,
+        "product_ids": [],
+        "excluded_product_ids": [],
+        "usage_limit": null,
+        "usage_limit_per_user": null,
+        "limit_usage_to_x_items": null,
+        "free_shipping": false,
+        "product_categories": [],
+        "excluded_product_categories": [],
+        "exclude_sale_items": false,
+        "minimum_amount": "0.00",
+        "maximum_amount": "0.00",
+        "email_restrictions": [],
+        "used_by": [],
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons/6942"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/coupons"
+                }
+            ]
+        }
+    }
+]
